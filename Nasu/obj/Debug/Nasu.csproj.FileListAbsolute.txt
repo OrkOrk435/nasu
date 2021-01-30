@@ -1,0 +1,10 @@
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\bin\Debug\Nasu.exe.config
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\bin\Debug\Nasu.exe
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\bin\Debug\Nasu.pdb
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.csprojAssemblyReference.cache
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.Form1.resources
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.Properties.Resources.resources
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.csproj.GenerateResource.cache
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.csproj.CoreCompileInputs.cache
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.exe
+D:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Nasu\Nasu\obj\Debug\Nasu.pdb

@@ -1,0 +1,7 @@
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\bin\Debug\TestTimeServer.exe.config
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\bin\Debug\TestTimeServer.exe
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\bin\Debug\TestTimeServer.pdb
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\obj\Debug\TestTimeServer.csprojAssemblyReference.cache
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\obj\Debug\TestTimeServer.csproj.CoreCompileInputs.cache
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\obj\Debug\TestTimeServer.exe
+D:\users\łukasz\Documents\Visual Studio 2017\Projects\Nasu\TestTimeServer\obj\Debug\TestTimeServer.pdb
