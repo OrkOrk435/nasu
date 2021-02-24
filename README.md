@@ -1,2 +1,2 @@
 # nasu
-Open-source communicator - Open-source`owy komunikator
+Open-source communicator - Open-source`owy komunikator!
